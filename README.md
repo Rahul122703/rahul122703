@@ -145,7 +145,7 @@
 <table align="center">
     <tr>
         <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" height="50" width="50"/>
             <div>Selenium</div>
         </td>
         <td>
