@@ -71,21 +71,47 @@
 <br>
 <center><h1>My Tech Stack</h1></center>
 
-<h2>Frontend</h2>
+<h2 align="center">😊 LANGUAGES I KNOW 😊</h2>
 <table align="center">
     <tr>
         <td>
             <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-            <div>HTML5</div>
+            <div>HTML</div>
         </td>
         <td>
             <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-            <div>CSS3</div>
+            <div>CSS</div>
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+            <div>Python</div>
         </td>
         <td>
             <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
             <div>JavaScript</div>
         </td>
+        <td>
+            <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+            <div>Java</div>
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+            <div>C</div>
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+            <div>C++</div>
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+            <div>SQL</div>
+        </td>
+    </tr>
+</table>
+
+<h2>Frontend</h2>
+<table align="center">
+    <tr>
         <td>
             <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
             <div>React</div>
@@ -105,20 +131,12 @@
 <table align="center">
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-            <div>Python</div>
-        </td>
-        <td>
             <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask"/>
             <div>Flask</div>
         </td>
         <td>
             <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
             <div>Django</div>
-        </td>
-        <td>
-            <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-            <div>Java</div>
         </td>
     </tr>
 </table>
@@ -135,7 +153,7 @@
             <div>SQLAlchemy</div>
         </td>
         <td>
-            <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL"/>
+            <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" height="50"/>
             <div>MySQL</div>
         </td>
     </tr>
@@ -148,61 +166,24 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" height="50" width="50"/>
             <div>Selenium</div>
         </td>
+    </tr>
+</table>
+
+<h2>Data Analysis</h2>
+<table align="center">
+    <tr>
         <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Beautiful_Soup_logo.png/640px-Beautiful_Soup_logo.png" height="50" width="50" alt="Beautiful Soup"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="100" width="100" alt="Pandas"/>
+            <div>Pandas</div>
+        </td>
+        <td>
+            <img src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/0*oN9jA-Ad3mRlPAYy.png" height="100" width="200" alt="Beautiful Soup"/>
             <div>Beautiful Soup</div>
         </td>
     </tr>
 </table>
 
-<h2>Statistics and Data Analysis</h2>
-<table align="center">
-    <tr>
-        <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pandas_logo.svg/640px-Pandas_logo.svg.png" height="50" width="50" alt="Pandas"/>
-            <div>Pandas</div>
-        </td>
-        <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Numpy_logo_2020.svg/640px-Numpy_logo_2020.svg.png" height="50" width="50" alt="NumPy"/>
-            <div>NumPy</div>
-        </td>
-    </tr>
-</table>
-
-<h2>Cloud Services</h2>
-<table align="center">
-    <tr>
-        <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png" alt="AWS"/>
-            <div>AWS</div>
-        </td>
-    </tr>
-</table>
-
-<h2>Currently Learning</h2>
-<table align="center">
-    <tr>
-        <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/React-icon.svg/1024px-React-icon.svg.png" alt="React"/>
-            <div>React</div>
-        </td>
-        <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nextjs-logo.svg/640px-Nextjs-logo.svg.png" alt="Next.js"/>
-            <div>Next.js</div>
-        </td>
-        <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Git-logo.svg/640px-Git-logo.svg.png" alt="Git"/>
-            <div>Git</div>
-        </td>
-    </tr>
-</table>
-
 <br>
-<p align="center">
-    <a href="https://github.com/rahul122703" target="_blank">
-        <img src="https://github.com/rahul122703/rahul122703/blob/main/Assets/contribution-snake.svg" alt="Contribution Graph"/>
-    </a>
-</p>
 
 <h3 align="center">🌈 Support Me By Starring The Repositories If You Like 🌈</h3>
 <p align="center">
