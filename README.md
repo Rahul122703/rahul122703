@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=NAMASTE+🙏;Passionate+about+Web+Development;Also+Web+Scraping+and+Data+Analysis;Touch+Typing+at+105+WPM+⌨️;Software+Development+Enthusiast;Active+Learner+and+Explorer;Always+Exploring+New+Technologies+💻" alt="Typing animation">
 </p>
 
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;" alt="Connect with me"> Connect with me 🤝 </h3>
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;" alt="Connect with me"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h3>
 
 <p align="center">
   <div align="center" class="icons-social">
