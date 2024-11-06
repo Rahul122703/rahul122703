@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Header Image">
+ur<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Header Image">
 
 <h1 align="center">Hi, I'm Rahul Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand"></h1>
 
@@ -126,7 +126,7 @@
         </td>
         <td>
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Tailwind CSS" height="50"/>
-            <div>Figma</div>
+            <div>FigmaDesign</div>
         </td>
         <td>
             <img src="https://static.cdnlogo.com/logos/p/20/postman.svg" height ="50": alt="Tailwind CSS"/>
