@@ -124,6 +124,14 @@
             <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
             <div>Tailwind CSS</div>
         </td>
+        <td>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Tailwind CSS" height="50"/>
+            <div>Figma</div>
+        </td>
+        <td>
+            <img src="https://static.cdnlogo.com/logos/p/20/postman.svg" height ="50": alt="Tailwind CSS"/>
+            <div>Postman</div>
+        </td>
     </tr>
 </table>
 
@@ -137,6 +145,10 @@
         <td>
             <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
             <div>Django</div>
+        </td>
+        <td>
+            <img src="https://static.cdnlogo.com/logos/p/20/postman.svg" height ="50": alt="Tailwind CSS"/>
+            <div>Postman</div>
         </td>
     </tr>
 </table>
