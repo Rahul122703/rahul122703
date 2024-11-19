@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Header Image">
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=🙏+NAMASTE+🙏;Passionate+about+Web+Development;Also+Web+Scraping+and+Data+Analysis;Touch+Typing+at+105++WPM+⌨️;Software+Development+Enthusiast;Active+Learner+and+Explorer;Always+Exploring+New+Technologies+💻" alt="Typing animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=🙏+NAMASTE+🙏;Web+Development;+Web+Scraping+and+Data+Analysis;Touch+Typing+at+105++WPM+⌨️;Software+Development;" alt="Typing animation">
 </p>
 
 <h3 align="center">
