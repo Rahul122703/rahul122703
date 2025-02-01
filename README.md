@@ -75,14 +75,6 @@
 <table align="center">
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-            <div>HTML</div>
-        </td>
-        <td>
-            <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-            <div>CSS</div>
-        </td>
-        <td>
             <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
             <div>Python</div>
         </td>
@@ -123,6 +115,14 @@
         <td>
             <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
             <div>Tailwind CSS</div>
+        </td> 
+        <td>
+            <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+            <div>HTML</div>
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+            <div>CSS</div>
         </td>
     </tr>
 </table>
