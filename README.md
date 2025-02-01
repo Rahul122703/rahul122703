@@ -128,10 +128,6 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Tailwind CSS" height="50"/>
             <div>FigmaDesign</div>
         </td>
-        <td>
-            <img src="https://static.cdnlogo.com/logos/p/20/postman.svg" height ="50": alt="Tailwind CSS"/>
-            <div>Postman</div>
-        </td>
     </tr>
 </table>
 
@@ -147,7 +143,11 @@
             <div>Django</div>
         </td>
         <td>
-            <img src="https://static.cdnlogo.com/logos/p/20/postman.svg" height ="50": alt="Tailwind CSS"/>
+            <img src="https://www.django-rest-framework.org/img/logo.png" height = "50" alt="Django"/>
+            <div>Django REST framework</div>
+        </td>
+        <td>
+            <img src="https://static.cdnlogo.com/logos/p/20/postman.svg" height ="50" alt="Tailwind CSS"/>
             <div>Postman</div>
         </td>
     </tr>
