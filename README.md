@@ -90,14 +90,14 @@
             <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
             <div>JavaScript</div>
         </td>
-        <td>
+<!--         <td>
             <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
             <div>Java</div>
-        </td>
-        <td>
+        </td> -->
+<!--         <td>
             <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
             <div>C</div>
-        </td>
+        </td> -->
         <td>
             <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
             <div>C++</div>
@@ -123,10 +123,6 @@
         <td>
             <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
             <div>Tailwind CSS</div>
-        </td>
-        <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Tailwind CSS" height="50"/>
-            <div>FigmaDesign</div>
         </td>
     </tr>
 </table>
