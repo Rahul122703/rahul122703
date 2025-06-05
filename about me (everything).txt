@@ -1,0 +1,123 @@
+Full Name : - Rahul Sharma
+---------------------------------------------------------------------------------------------------------------------
+Description:-
+I'm a full-stack web developer who builds websites using tools like React, Flask, and Django.
+I’ve worked on projects like PollVerse, Rahul Mart, and ShareSense that include login systems, smart features, and clean designs.
+I'm good at solving problems, automating tasks, and using Git, with experience from hackathons and helping with college placements.
+---------------------------------------------------------------------------------------------------------------------
+contact :- 8291147114
+LinkedIn: https://www.linkedin.com/in/rahul122703/
+Github :- https://github.com/rahul122703/
+email:- rsharma122703@gmail.com
+---------------------------------------------------------------------------------------------------------------------
+
+projects:-
+1. pollverse (done) 
+livelink:- https://pollversey.onrender.com 
+github:-  https://github.com/Rahul122703/pollverse
+	TechStack:htmlCSSJS(FE all vanilla) Flask(backend) SQL(Database)
+	feature:
+	◦ Description: A web app for sentiment analysis in anonymous polls and discussions, providing insights into user feedback over time.
+	◦ Key Features:
+		∗Anonymous Polls: Secure, anonymous poll creation with user authentication with OTP.
+		∗ Sentiment Analysis: Captures trends in user sentiment over time.
+		∗ User Profiles & Notifications: Displays user activity, sends email alerts.
+
+2. sharesense (done)  
+livelink:- https://sharesense.onrender.com
+github:-  https://github.com/Rahul122703/rshare
+	TechStack:htmlCSSJS(FE all vanilla) Flask(backend) SQL(Database)
+	 Description: A document-sharing platform that allows secure file sharing with various access options.
+	◦ Key Features:
+		∗ File Sharing Flexibility: Share files publicly.
+		∗ Drag-and-Drop Uploading: Easy file uploads with visual feedback.
+		∗ User Authentication: Secure, account-based file access with OTP .
+		∗ Can upload 50+ files at a time iresspective of file type
+
+
+
+
+3. rahulmart (done)  
+livelink:- https://rahulmart.netlify.app
+Github:- https://github.com/Rahul122703/rahulmart
+	TechStack:React.js netlify-serverless-function AirTable
+	Description: Rahul Mart is a complete e-commerce web app built using React and 
+Airtable. It lets users browse, search, and shop for products with useful features and a clean, modern 	layout.
+	Key Features:
+		Login/Register: Users can sign up and log in to manage their cart and view their orders.
+		React + Airtable Backend: The app is built with React, and it uses Airtable to store product data. Serverless functions on Netlify handle the backend work.
+		Filtering & Sorting: Products can be filtered by category and sorted by price, name, or popularity.
+		Search Functionality: A fast search bar helps users quickly find the products they're looking for.
+		Dark Mode: Users can switch between light and dark themes based on their preference.
+		Dynamic Product Listings: Products are managed directly from Airtable, so updates happen quickly without needing to change the code
+
+4. Blogging Website  
+livelink:- https://rahulwrites.onrender.com
+Github:- https://github.com/Rahul122703/Blogging-website
+	TechStack:htmlCSSJS(FE all vanilla) Flask(backend) SQL(Database)
+	Description: This is my personal blogging platform where I can write, edit, and manage my own blog posts. It includes all the basic features needed for a simple, functional blog.
+	Key Features:
+	CRUD Operations: I can create, read, update, and delete blog posts.
+	User Authentication: Secure login system to protect the dashboard and content.
+	Comment Section: Visitors can leave comments on each blog post.
+	Personal Use: Designed mainly for my own blogging needs and experiments with backend features.
+
+4. Rohan Arts (done)  
+livelink:- https://rohanarts.vercel.app
+Github:- https://github.com/Rahul122703/rohan_arts
+	TechStack:htmlCSSJS(FE all vanilla)
+    	Description: Rohan Arts is a personal website made using only HTML, CSS, and plain JavaScript. It shows the artist’s sketches and paintings and lets visitors easily look through the artwork.
+    	Key Features:
+        		Filter Option: Visitors can choose to see certain types of art like sketches or paintings.
+        		Search Function: There is a search bar to help find specific artwork by name or keyword.
+        		No Frameworks: The whole site is built with basic web tools—just HTML, CSS, and JavaScript.
+        		Works on All Devices: The site looks good and works well on phones and computers.
+        		Shows Artist’s Work: Displays different art styles and includes ways to contact the artist for commissions.
+5. Elementary Apps 
+livelink:- https://rahulsharmahosted.netlify.app
+Github: - https://github.com/Rahul122703/all_hosted_project_list
+	Description: This website serves as a central collection or portfolio showcasing a variety of web projects and scripts developed by Rahul Sharma. It organizes projects into different categories like full-	stack apps, frontend-only sites, serverless functions, and Python scripts
+
+---------------------------------------------------------------------------------------------------------------------
+Education:- 
+1. Xaiver Institute of Engineering (2022-present (sem 7))
+	B.E. Information Technology 
+	CGPA:- 8.7
+	Entrance : - 94 Percentile Got TFWS scholarship among Top 3 student
+
+---------------------------------------------------------------------------------------------------------------------
+
+programming languages i know:- Javascript,C/C++,Python
+other languages:- HTML,CSS,SQL
+
+web technologies:
+	Frontend:- ReactJS,Bootstrap,tailwind
+	Backend:Django_rest_framework, Flask, Nextjs,postman 
+
+Automation: - selenium
+Web Scarping: - BeautifulSoup  
+VCS :- Git/Github
+
+---------------------------------------------------------------------------------------------------------------------
+
+achivements:
+1.first price for pollverse in College project exhibition competition
+2.In top 4 team in intercollege hackathon
+---------------------------------------------------------------------------------------------------------------------
+
+experience:
+1. KanoonKeHaath as a fullstack developer in nextjs  (24 dec 2024 - present) 
+	desc:- made many reponsive and dyanamic pages using nextjs and backend APIs
+
+---------------------------------------------------------------------------------------------------------------------
+
+extra -curricular
+TPO co-ordinator (20 aug 2024 - present)
+	desc- managed many college placements 
+
+---------------------------------------------------------------------------------------------------------------------
+Hobbies:-
+1. Chess (Profile_ilnk :- https://monkeytype.com/profile/rahul122703)
+2. Touch Typing (Profile :- https://www.chess.com/member/rahul122703)
+
+
