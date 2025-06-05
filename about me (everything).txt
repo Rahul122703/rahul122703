@@ -1,5 +1,5 @@
 Full Name : - Rahul Sharma
----------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 My Portfolio Site 
 https://rahulwrites.onrender.com
 ---------------------------------------------------------------------------------------------------------------------
@@ -18,18 +18,18 @@ projects:-
 1. pollverse (done) 
 livelink:- https://pollversey.onrender.com 
 github:-  https://github.com/Rahul122703/pollverse
-	TechStack:htmlCSSJS(FE all vanilla) Flask(backend) SQL(Database)
+	TechStack:htmlCSSJS(FE all vanilla) Flask(backend),SqlAlchemy,MatPlotLib,werkzeug
 	feature:
 	◦ Description: A web app for sentiment analysis in anonymous polls and discussions, providing insights into user feedback over time.
 	◦ Key Features:
-		∗Anonymous Polls: Secure, anonymous poll creation with user authentication with OTP.
+		∗ Anonymous Polls: Secure, anonymous poll creation with user authentication with OTP.
 		∗ Sentiment Analysis: Captures trends in user sentiment over time.
-		∗ User Profiles & Notifications: Displays user activity, sends email alerts.
+		∗ User Profiles & Notifications: Displays user activity, sends email alerts and also Incognito Mode
 
 2. sharesense (done)  
 livelink:- https://sharesense.onrender.com
 github:-  https://github.com/Rahul122703/rshare
-	TechStack:htmlCSSJS(FE all vanilla) Flask(backend) SQL(Database)
+	TechStack:htmlCSSJS(FE all vanilla) Flask(backend),SqlAlchemy,werkzeug
 	 Description: A document-sharing platform that allows secure file sharing with various access options.
 	◦ Key Features:
 		∗ File Sharing Flexibility: Share files publicly.
@@ -40,7 +40,7 @@ github:-  https://github.com/Rahul122703/rshare
 3. rahulmart (done)  
 livelink:- https://rahulmart.netlify.app
 Github:- https://github.com/Rahul122703/rahulmart
-	TechStack:React.js netlify-serverless-function AirTable
+	TechStack:React.js,TailwindCSS,netlify-serverless-function, AirTable
 	Description: Rahul Mart is a complete e-commerce web app built using React and 
 	Airtable. It lets users browse, search, and shop for products with useful features and a clean, modern 	layout.
 	Key Features:
