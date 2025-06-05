@@ -1,5 +1,8 @@
 Full Name : - Rahul Sharma
 ---------------------------------------------------------------------------------------------------------------------
+My Portfolio Site 
+https://rahulwrites.onrender.com
+---------------------------------------------------------------------------------------------------------------------
 Description:-
 I'm a full-stack web developer who builds websites using tools like React, Flask, and Django.
 I’ve worked on projects like PollVerse, Rahul Mart, and ShareSense that include login systems, smart features, and clean designs.
@@ -34,15 +37,12 @@ github:-  https://github.com/Rahul122703/rshare
 		∗ User Authentication: Secure, account-based file access with OTP .
 		∗ Can upload 50+ files at a time iresspective of file type
 
-
-
-
 3. rahulmart (done)  
 livelink:- https://rahulmart.netlify.app
 Github:- https://github.com/Rahul122703/rahulmart
 	TechStack:React.js netlify-serverless-function AirTable
 	Description: Rahul Mart is a complete e-commerce web app built using React and 
-Airtable. It lets users browse, search, and shop for products with useful features and a clean, modern 	layout.
+	Airtable. It lets users browse, search, and shop for products with useful features and a clean, modern 	layout.
 	Key Features:
 		Login/Register: Users can sign up and log in to manage their cart and view their orders.
 		React + Airtable Backend: The app is built with React, and it uses Airtable to store product data. Serverless functions on Netlify handle the backend work.
@@ -62,7 +62,7 @@ Github:- https://github.com/Rahul122703/Blogging-website
 	Comment Section: Visitors can leave comments on each blog post.
 	Personal Use: Designed mainly for my own blogging needs and experiments with backend features.
 
-4. Rohan Arts (done)  
+5. Rohan Arts (done)  
 livelink:- https://rohanarts.vercel.app
 Github:- https://github.com/Rahul122703/rohan_arts
 	TechStack:htmlCSSJS(FE all vanilla)
@@ -73,10 +73,19 @@ Github:- https://github.com/Rahul122703/rohan_arts
         		No Frameworks: The whole site is built with basic web tools—just HTML, CSS, and JavaScript.
         		Works on All Devices: The site looks good and works well on phones and computers.
         		Shows Artist’s Work: Displays different art styles and includes ways to contact the artist for commissions.
-5. Elementary Apps 
+
+6. Elementary Apps 
 livelink:- https://rahulsharmahosted.netlify.app
 Github: - https://github.com/Rahul122703/all_hosted_project_list
 	Description: This website serves as a central collection or portfolio showcasing a variety of web projects and scripts developed by Rahul Sharma. It organizes projects into different categories like full-	stack apps, frontend-only sites, serverless functions, and Python scripts
+
+7. LinkedIn Automation
+Github: - https://github.com/Rahul122703/linkedinAutomation
+	Description: This is a selenium python script which takes account credential and does everything it self to apply for python jobs
+
+8. SIH scraping (Web Scraping)
+Github: - https://github.com/Rahul122703/SIHscraping
+	Description: This i made to takeout all the data from SmartIndiaHackathon Website to extract all the data and add into excel sheet
 
 ---------------------------------------------------------------------------------------------------------------------
 Education:- 
