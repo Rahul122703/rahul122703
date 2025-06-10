@@ -42,7 +42,7 @@ livelink:- https://rahulmart.netlify.app
 Github:- https://github.com/Rahul122703/rahulmart
 	TechStack:React.js,TailwindCSS,netlify-serverless-function, AirTable
 	Description: Rahul Mart is a complete e-commerce web app built using React and 
-	Airtable. It lets users browse, search, and shop for products with useful features and a clean, modern 	layout.
+	Airtable. It lets users browse, search, and shop for products with useful features and a clean, modern layout.
 	Key Features:
 		Login/Register: Users can sign up and log in to manage their cart and view their orders.
 		React + Airtable Backend: The app is built with React, and it uses Airtable to store product data. Serverless functions on Netlify handle the backend work.
@@ -92,8 +92,6 @@ Education:-
 1. Xaiver Institute of Engineering (2022-present (sem 7))
 	B.E. Information Technology 
 	CGPA:- 8.7
-	Entrance : - 94 Percentile Got TFWS scholarship among Top 3 student
-
 ---------------------------------------------------------------------------------------------------------------------
 
 programming languages i know:- Javascript,C/C++,Python
@@ -108,19 +106,19 @@ Web Scarping: - BeautifulSoup
 VCS :- Git/Github
 
 ---------------------------------------------------------------------------------------------------------------------
-
 achivements:
-1.first price for pollverse in College project exhibition competition
-2.In top 4 team in intercollege hackathon
+1. First price for pollverse in College project exhibition competition
+2. In top 4 team in intercollege hackathon
+3. Entrance : - 94 Percentile Got TFWS scholarship among Top 3 student
 ---------------------------------------------------------------------------------------------------------------------
 
 experience:
-1. KanoonKeHaath as a fullstack developer in nextjs  (24 dec 2024 - present) 
-	desc:- made many reponsive and dyanamic pages using nextjs and backend APIs
+1. KanoonKeHaath as SDE (24 dec 2024 - present) 
+	desc:- made many reponsive and dyanamic pages using nextjs and backend APIs using react , nextjs
 
 ---------------------------------------------------------------------------------------------------------------------
 
-extra -curricular
+extra - curricular
 TPO co-ordinator (20 aug 2024 - present)
 	desc- managed many college placements 
 
@@ -128,5 +126,4 @@ TPO co-ordinator (20 aug 2024 - present)
 Hobbies:-
 1. Chess (Profile_ilnk :- https://monkeytype.com/profile/rahul122703)
 2. Touch Typing (Profile :- https://www.chess.com/member/rahul122703)
-
 
