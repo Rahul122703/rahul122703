@@ -57,15 +57,20 @@
 
 <h2>My GitHub Stats</h2>
 
-<table align="center">
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul122703&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rahul Sharma's GitHub Stats" width="300" />
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=rahul122703&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-        </td>
-    </tr>
+<table align="center" width="100%" cellspacing="10">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul122703&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rahul122703&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://ghchart.rshah.org/rahul122703" alt="GitHub Contribution Graph" width="100%" style="max-width: 100%;" />
+    </td>
+  </tr>
 </table>
 
 <br>
