@@ -3,10 +3,8 @@ Full Name : - Rahul Sharma
 My Portfolio Site 
 https://rahulwrites.onrender.com
 ---------------------------------------------------------------------------------------------------------------------
-Description:-
-I'm a full-stack web developer who builds websites using tools like React, Flask, and Django.
-I’ve worked on projects like PollVerse, Rahul Mart, and ShareSense that include login systems, smart features, and clean designs.
-I'm good at solving problems, automating tasks, and using Git, with experience from hackathons and helping with college placements.
+Carrer Objective:-
+I am a full‑stack web developer with hands‑on experience in React, Next.js, Flask, and Django, and I build REST APIs alongside responsive user interfaces using vanillaCSS,TailwindCSS. I enjoy solving problems and automating tasks to create smooth, user‑friendly applications.
 ---------------------------------------------------------------------------------------------------------------------
 contact :- 8291147114
 LinkedIn: https://www.linkedin.com/in/rahul122703/
@@ -92,6 +90,15 @@ Education:-
 1. Xaiver Institute of Engineering (2022-present (sem 7))
 	B.E. Information Technology 
 	CGPA:- 8.7
+
+sem 1 -- > 8.17
+sem 2 -- > 8.40
+sem 3 -- > 
+sem 4 -- >
+sem 5 -- >
+sem 6 -- > yet to accounce
+
+2. HSC 
 ---------------------------------------------------------------------------------------------------------------------
 
 programming languages i know:- Javascript,C/C++,Python
@@ -107,14 +114,19 @@ VCS :- Git/Github
 
 ---------------------------------------------------------------------------------------------------------------------
 achivements:
-1. First price for pollverse in College project exhibition competition
-2. In top 4 team in intercollege hackathon
-3. Entrance : - 94 Percentile Got TFWS scholarship among Top 3 student
+1. First price for pollverse in College project exhibition competition (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751137649/PollverseFirstPrice_ji8usj.png)
+2. In top 4 team in intercollege hackathon (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134881/24hrhack_ifojuw.png)
+3. Entrance : - 94 Percentile Got TFWS scholarship among Top 3 student (Dont Add this in my Resume)
 ---------------------------------------------------------------------------------------------------------------------
 
 experience:
 1. KanoonKeHaath as SDE (24 dec 2024 - present) 
-	desc:- made many reponsive and dyanamic pages using nextjs and backend APIs using react , nextjs
+Internship Completion certifiate link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134880/kkhcertificate_ivbe5w.png
+desc:-
+1. made backend REST api using next js 
+2. made Frontend using reactjs and TailwindCSS
+3. learned to use postmant to test applications
+
 
 ---------------------------------------------------------------------------------------------------------------------
 

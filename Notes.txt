@@ -4,8 +4,6 @@ Current accounts for applications on
 3. indeed
 4. Fiver
 
-
-
 Resume (ATS) (Take help of Chat gpt)
 - Upload Resume into gpt & paste the Job description.
    gpt will give Relevant keywords ask not to add it directly (just suggest).
@@ -75,3 +73,20 @@ Season : July, Aug, Sep , come (1hr)
 breath
 
 ✪ NO LIE
+
+1. i want my resume format as the latex code and all the information i sent firstly 
+2. it should look very clean and professional 
+3. Dont show the links rather use relevant logo to open the links 
+4. Make sure to organize all 
+3. projects to add from the information  as per the sequence:-
+	1. RahulMart
+	2. Pollverse
+	3. Sharesense
+	4. RohanArts
+	5. ElementaryApps
+4. Add all the description of the project as it is
+5. THIS IS VERY IMP NOTE THAT THE FULL RESUME SHOULD BE CONSUMED IN ONE PAGE ONLY 
+6. Dont Add linkedIn Automation and SIH scraping 
+7. Dont add blogging website as my project  rather add a link as this website as my portfolio website
+8. Make sure that the code doesnt have any errors 
+  

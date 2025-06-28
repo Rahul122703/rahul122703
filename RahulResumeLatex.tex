@@ -1,0 +1,172 @@
+\documentclass[letterpaper,10pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fontawesome}
+\usepackage{hyperref}
+\usepackage{tabularx}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.4in}
+\addtolength{\evensidemargin}{-0.4in}
+\addtolength{\textwidth}{0.8in}
+\addtolength{\topmargin}{-0.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-4pt}]
+
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[2]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+    \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-2pt}}
+\renewcommand{\labelitemii}{$\circ$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-4pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{center}
+  \small
+  \textbf{\Large \href{https://rahulwrites.onrender.com}{\underline{RAHUL SHARMA}}} \hspace{0.5cm}
+  \faPhone\ +91 8291147114 \hspace{0.5cm}
+  \href{mailto:rsharma122703@gmail.com}{\faEnvelope\ \underline{rsharma122703@gmail.com}} \hspace{0.5cm}
+  \href{https://github.com/rahul122703}{\underline{\faGithub}} \hspace{0.5cm}
+\textbar \hspace{0.5cm}
+\href{https://www.linkedin.com/in/rahul122703/}{\underline{\faLinkedin}}
+
+\end{center}
+
+
+%-----------PROJECTS-----------------
+\section{Projects}
+
+\begin{itemize}
+
+  \item \textbf{RahulMart} \hfill
+    \href{https://rahulmart.netlify.app}{\underline{\faExternalLink}} \hspace{0.3cm}
+    \href{https://github.com/Rahul122703/rahulmart}{\underline{\faGithub}} \\
+  \textit{React.js, TailwindCSS, Netlify Serverless Functions, Airtable}
+
+  \textbf{Description:} Rahul Mart is a complete e-commerce web app built using React and Airtable. It lets users browse, search, and shop for products with useful features and a clean, modern layout.
+
+  \textbf{Features:} Stripe Payment integration, Airtable backend integration, Login/Register system, dynamic product listings, category filtering, price and name sorting, Search feature, dark mode toggle.
+
+  \item \textbf{PollVerse} \hfill
+    \href{https://pollversey.onrender.com}{\underline{\faExternalLink}} \hspace{0.3cm}
+    \href{https://github.com/Rahul122703/pollverse}{\underline{\faGithub}} \\
+  \textit{HTML, CSS, JS (Vanilla), Flask, SQLAlchemy, Matplotlib, Werkzeug}
+
+  \textbf{Description:} A web app for sentiment analysis in anonymous polls and discussions, providing insights into user feedback over time.
+
+  \textbf{Features:} Anonymous Polls with OTP login, Incognito Mode, Sentiment Analysis over time using Matplotlib, User Profiles with personal poll tracking and email notifications.
+
+  \item \textbf{ShareSense} \hfill
+  \href{https://sharesense.onrender.com} {\underline{\faExternalLink}} \hspace{0.3cm}
+  \href{https://github.com/Rahul122703/rshare} {\underline{\faGithub}} \\
+  \textit{HTML, CSS, JS (Vanilla), Flask, SQLAlchemy, Werkzeug}
+
+  \textbf{Description:} A document-sharing platform that allows secure file sharing with various access options.
+
+  \textbf{Features:} Public file sharing, Drag-and-Drop upload with feedback, Secure OTP-based user authentication, Support for 50+ files per upload.
+
+  % \item \textbf{Rohan Arts} \hfill
+  % \href{https://rohanarts.vercel.app} {\underline{\faExternalLink}} \hspace{0.3cm}
+  % \href{https://github.com/Rahul122703/rohan_arts} {\underline{\faGithub}} \\
+  % \textit{HTML, CSS, JS (Vanilla)}
+
+  % \textbf{Description:} Rohan Arts is a personal website made using only HTML, CSS, and plain JavaScript. It showcases the artist’s sketches and paintings with search and filter capabilities.
+
+  % \textbf{Features:} Artwork filtering (sketch/painting), keyword search, responsive design, contact options, built without external frameworks.
+
+  % \item \textbf{Elementary Apps} \hfill
+  % \href{https://rahulsharmahosted.netlify.app}{\underline{\faExternalLink}} \hspace{0.3cm}
+  % \href{https://github.com/Rahul122703/all_hosted_project_list}{\underline{\faGithub}} \\
+  % \textit{HTML, CSS, JS, React, Flask and more}
+
+  % \textbf{Description:} A central hub showcasing all personal projects, including full-stack apps, frontend sites, serverless tools, and Python scripts like fake news detection, tic-tac-toe, and more. 
+
+\end{itemize}
+
+%-----------EDUCATION-----------------
+\section{Education}
+\resumeSubHeadingListStart
+  \resumeSubheading{Xavier Institute of Engineering}{Mumbai, India}
+    \resumeItemListStart
+      \resumeItem{B.E. in Information Technology}{2022 -- Present (Semester 7), CGPA: 8.7}
+      \resumeItem{Achievements}{94 Percentile in MHT-CET, awarded TFWS scholarship (Top 3 student)}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%--------PROGRAMMING SKILLS------------
+\section{Skills}
+\resumeSubHeadingListStart
+  \resumeItem{Languages}{JavaScript, C/C++, Python, HTML, CSS, SQL}
+  \resumeItem{Frontend }{ReactJS, Bootstrap, TailwindCSS}
+  \resumeItem{Backend }{Flask, Django REST Framework, Next.js, Postman, Git/GitHub}
+  \resumeItem{Automation and Web Scraping}{Selenium, BeautifulSoup}
+\resumeSubHeadingListEnd
+
+%-----------ACHIEVEMENTS-----------------
+\section{Achievements}
+\resumeSubHeadingListStart
+  \resumeItem{Project Exhibition Winner}{Won First Prize for \textbf{PollVerse} at college-level project exhibition.}
+  \resumeItem{Hackathon Finalist}{Reached Top 4 in inter-college hackathon.}
+\resumeSubHeadingListEnd
+
+% %-----------EXPERIENCE-----------------
+% \section{Experience}
+% \resumeSubHeadingListStart
+%   \resumeSubheading{KanoonKeHaath (Fullstack Developer)}{Dec 2024 -- Present}
+%     \resumeItemListStart
+%       \resumeItem{Work}{Developed responsive and dynamic pages using Next.js and backend APIs.}
+%     \resumeItemListEnd
+% \resumeSubHeadingListEnd
+
+%-----------EXTRA CURRICULAR-----------------
+\section{Extra-Curricular}
+\resumeSubHeadingListStart
+  \resumeSubheading{TPO Co-ordinator}{Aug 2024 -- Present}
+    \resumeItemListStart
+      \resumeItem{Role}{Organized and managed various college placement activities and student-company communications.}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------HOBBIES-----------------
+\section{Hobbies}
+\resumeSubHeadingListStart
+  \resumeItem{Chess}{\href{https://www.chess.com/member/rahul122703}{\faChess \hspace{0.1cm} \underline{chess.com/rahul122703}}}
+  \resumeItem{Touch Typing}{\href{https://monkeytype.com/profile/rahul122703}{\faKeyboardO \hspace{0.1cm} \underline{monkeytype.com/rahul122703}} (100+ WPM)}
+\resumeSubHeadingListEnd
+
+\end{document}
