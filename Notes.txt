@@ -3,3 +3,47 @@ Current accounts for applications on
 2. Internshala
 3. indeed
 4. Fiver
+
+
+
+Resume (ATS) (Take help of Chat gpt)
+- Upload Resume into gpt & paste the Job description.
+   gpt will give Relevant keywords ask not to add it directly (just suggest).
+
+- find resume in pdf only.
+
+- Avoid icons, Bullet points only dots, No address, career objective.
+
+- No short cuts eg. ph: phone ✔️
+
+- Every word you write means (dont write things which you can’t speak) Ek baar job aate hai woh nhi dikhte college!
+
+- If you feel your resume is avg. ask chat gpt to fine tune it. 
+   it will give you suggestions (Canadian style for now its fine).
+
+- Then again feed to gpt & give suggestion for betterment. 
+   This will help your ATS score better.
+
+- Page 1 - 2 (Not more than two).
+
+- font size (10-12)
+
+- Frame sentence properly & give full knowledge 
+   eg: “I was a part of Spandan” (gpt ko paise samjhao)  
+         I was publicity head at my college fest Spandan (✔️)
+
+- Do not add stuff if jobsi aise question ki HR fraud de tu ne.
+
+i) Internship ✔️ 
+ii) Projects ✔️ 
+iii) Technical exp 
+iv) Achievements 
+v) Areas of Interest
+  
+a. Don’t write simply C C++ give support of use eg. cops in result  
+b. put it on Projects not in skills (eg. face detection, price points)  
+c. Don’t give irrelevant answers (career should be 1 main).
+
+- Short write not paragraph (HR ke paas time nhi hota list format).  
+
+👉 Title + 3 Bullet points ✔️
