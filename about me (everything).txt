@@ -116,6 +116,34 @@ achivements:
 1. First price for pollverse in College project exhibition competition (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751137649/PollverseFirstPrice_ji8usj.png)
 2. In top 4 team in intercollege hackathon (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134881/24hrhack_ifojuw.png)
 3. Entrance : - 94 Percentile Got TFWS scholarship among Top 3 student (Dont Add this in my Resume)
+4. Touch Typing (Profile :- https://www.chess.com/member/rahul122703) top 11.76 % on monkeytype in 15 sec category
+---------------------------------------------------------------------------------------------------------------------
+
+Certifications :
+SQL (Basic) – HackerRank
+Successfully cleared the SQL (Basic) assessment.
+Certificate Link https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134880/sqlbasic_rqu5rt.jpg
+
+2024 Complete Python Bootcamp from Zero to Hero in Python – Udemy
+Completed the Python Bootcamp under Surendra Varma Pericherla.
+Certificate Link https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134879/pythonherozero_ri5zfx.jpg
+Udemy Link (prefer this link) https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134879/pythonherozero_ri5zfx.jpg
+
+
+100 Days of Code: The Complete Python Pro Bootcamp – Udemy
+Completed Python Pro Bootcamp with Dr. Angela Yu and John Patmore.
+Certificate Link https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134879/pythonangela_jd6spw.jpg
+Udemy Link (prefer this link) https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134879/pythonangela_jd6spw.jpg
+
+Web Design Course – My Udaan Trust
+Finished skill development course in Web Design.
+Certificate Link https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134880/webdesign_pkek9o.jpg
+
+JavaScript Course – (Platform/Institute Name not specified)
+Completed a course in JavaScript (details can be added here).
+Certificate Link (Yet to do the test )
+
+
 ---------------------------------------------------------------------------------------------------------------------
 
 experience:
@@ -125,7 +153,6 @@ desc:-
 1. made backend REST api using next js 
 2. made Frontend using reactjs and TailwindCSS
 3. learned to use postmant to test REST APIs
-
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -137,10 +164,11 @@ TPO co-ordinator (20 aug 2024 - present)
 Hobbies:-
 1. Chess (Profile_ilnk :- https://monkeytype.com/profile/rahul122703)
 2. Touch Typing (Profile :- https://www.chess.com/member/rahul122703)
+
 Github :- https://github.com/Rahul122703
 portfolio :- https://rahulwrites.onrender.com
 LinkedIn :- https://www.linkedin.com/in/rahul122703/
-Drive :- https://drive.google.com/drive/folders/1pUUIfW6zU1Thm12msNN-f58QZYD2TbwT
+Drive (resume) :- https://drive.google.com/file/d/1MYDjUnq9BL-BXjWvI2LgYRq8C1A487yE/view?usp=drive_link
 
 
 
