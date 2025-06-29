@@ -89,4 +89,19 @@ breath
 6. Dont Add linkedIn Automation and SIH scraping 
 7. Dont add blogging website as my project  rather add a link as this website as my portfolio website
 8. Make sure that the code doesnt have any errors 
+
+
+Resume flow
+Here’s a polished, logical flow that maximizes impact—especially for an early‑career or soon‑to‑graduate candidate:
+
+Header
+Career Objective (or Professional Summary)
+Technical Skills
+Projects (optional, if you have class–or self‑driven work)
+Experience
+Education
+Achievements & Certifications
+Extracurricular Activities
+Hobbies & Interests
+
   
