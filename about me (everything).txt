@@ -97,7 +97,8 @@ sem 4 -- > 7.65
 sem 5 -- > 8.30
 sem 6 -- > yet to accounce
 DONT ADD ALL SEM RESULT JUST TAKE AVERAGE OF ALL
-2. HSC 
+2. HSC --> 61.17% (2022)
+3. SSC --> 77.20% (2019)
 ---------------------------------------------------------------------------------------------------------------------
 
 programming languages i know:- Javascript,C/C++,Python
@@ -117,6 +118,7 @@ achivements:
 2. In top 4 team in intercollege hackathon (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134881/24hrhack_ifojuw.png)
 3. Entrance : - 94 Percentile Got TFWS scholarship among Top 3 student (Dont Add this in my Resume)
 4. Touch Typing (Profile :- https://www.chess.com/member/rahul122703) top 11.76 % on monkeytype in 15 sec category
+5. Silver medal in youth india olympics in Taekwondo
 ---------------------------------------------------------------------------------------------------------------------
 
 Certifications :
@@ -128,7 +130,6 @@ Certificate Link https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134880/s
 Completed the Python Bootcamp under Surendra Varma Pericherla.
 Certificate Link https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134879/pythonherozero_ri5zfx.jpg
 Udemy Link (prefer this link) https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134879/pythonherozero_ri5zfx.jpg
-
 
 100 Days of Code: The Complete Python Pro Bootcamp – Udemy
 Completed Python Pro Bootcamp with Dr. Angela Yu and John Patmore.
@@ -142,6 +143,9 @@ Certificate Link https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134880/w
 JavaScript Course – (Platform/Institute Name not specified)
 Completed a course in JavaScript (details can be added here).
 Certificate Link (Yet to do the test )
+
+SQL hacker rank (basic)
+certificate Link (https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134880/sqlbasic_rqu5rt.jpg)
 
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -165,10 +169,12 @@ Hobbies:-
 1. Chess (Profile_ilnk :- https://monkeytype.com/profile/rahul122703)
 2. Touch Typing (Profile :- https://www.chess.com/member/rahul122703)
 
+
+----------------------------------DONT ADD THESE BELOW LINKS IN THE RESUME--------------------------------------------
 Github :- https://github.com/Rahul122703
 portfolio :- https://rahulwrites.onrender.com
 LinkedIn :- https://www.linkedin.com/in/rahul122703/
-Drive (resume) :- https://drive.google.com/file/d/1MYDjUnq9BL-BXjWvI2LgYRq8C1A487yE/view?usp=drive_link
+Drive (resume) :- https://drive.google.com/file/d/1N33rwP9bsgpLEAMhO2O5Zl34lnDryGex/view?usp=drive_link
 
 
 
