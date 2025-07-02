@@ -49,7 +49,7 @@ Github:- https://github.com/Rahul122703/rahulmart
 		Dark Mode: Users can switch between light and dark themes based on their preference.
 		Dynamic Product Listings: Products are managed directly from Airtable, so updates happen quickly without needing to change the code
 
-4. Blogging Website  
+4. Blogging Website   (DONT ADD THIS PROJECT IN MY RESUME THIS WILL BE USED AS MY PORTFOLIO WEBSITE LINK)
 livelink:- https://rahulwrites.onrender.com
 Github:- https://github.com/Rahul122703/Blogging-website
 	TechStack:htmlCSSJS(FE all vanilla) Flask(backend) SQL(Database)
@@ -123,18 +123,22 @@ achivements:
 
 Certifications :
 SQL (Basic) – HackerRank
-Successfully cleared the SQL (Basic) assessment.
+Successfully cleared the SQL (Basic) assessment.   
 Certificate Link https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134880/sqlbasic_rqu5rt.jpg
 
 2024 Complete Python Bootcamp from Zero to Hero in Python – Udemy
-Completed the Python Bootcamp under Surendra Varma Pericherla.
+Completed the Python Bootcamp under Surendra Varma Pericherla.  
 Certificate Link https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134879/pythonherozero_ri5zfx.jpg
 Udemy Link (prefer this link) https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134879/pythonherozero_ri5zfx.jpg
+Description :- In this i learned many things in python like 
 
 100 Days of Code: The Complete Python Pro Bootcamp – Udemy
 Completed Python Pro Bootcamp with Dr. Angela Yu and John Patmore.
 Certificate Link https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134879/pythonangela_jd6spw.jpg
 Udemy Link (prefer this link) https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134879/pythonangela_jd6spw.jpg
+Description: I mastered Python by building many unique projects in 100 days, covering automation, game development, web apps, data science, and machine learning.
+My portfolio includes projects using Selenium, BeautifulSoup, Requests, Flask, Pandas, NumPy, Scikit-Learn, Plotly, and Matplotlib.
+I’ve developed games like Snake and Blackjack, built full-stack websites, GUIs, and desktop applications, and can now code professionally in Python.
 
 Web Design Course – My Udaan Trust
 Finished skill development course in Web Design.
@@ -176,5 +180,6 @@ portfolio :- https://rahulwrites.onrender.com
 LinkedIn :- https://www.linkedin.com/in/rahul122703/
 Drive (resume) :- https://drive.google.com/file/d/1N33rwP9bsgpLEAMhO2O5Zl34lnDryGex/view?usp=drive_link
 
+NOTE :- MAKE SURE LINKS ARE NOT VISIBLE IN THE RESUME HIDE IT USING A TEXT MAKE THE TEXT CLICKABLE
 
 
