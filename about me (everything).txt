@@ -49,7 +49,25 @@ Github:- https://github.com/Rahul122703/rahulmart
 		Dark Mode: Users can switch between light and dark themes based on their preference.
 		Dynamic Product Listings: Products are managed directly from Airtable, so updates happen quickly without needing to change the code
 
-4. Blogging Website   (DONT ADD THIS PROJECT IN MY RESUME THIS WILL BE USED AS MY PORTFOLIO WEBSITE LINK)
+4. Student Dashboard (done)
+Live Link: https://student-ed-tech-dashboard.vercel.app
+GitHub: https://github.com/Rahul122703/StudentEdTechDashboard
+TechStack: React.js, Vite, Tailwind CSS, Redux Toolkit, Recharts, Axios
+Description:
+Student Dashboard is a modern and fully responsive web application built using React and Tailwind CSS. It provides a professional platform for students to manage their learning activities, track progress, enhance resumes, and receive notifications in a smooth, user-friendly interface.
+Key Features:
+	Login/Register: Students can securely log in and access personalized data.
+	Course Management: View enrolled courses, apply filters based on dynamic categories, and search courses by title.
+	Resume Enhancer: Upload resume (PDF or text), get improvement suggestions, and track resume improvement through a visual progress bar.
+	Progress Tracking: See course completion stats in cards and check consistency using a GitHub-like heatmap.
+	Messaging System: Receive messages from admin, instructors, and support. Mark as read, delete, reply, and paginate messages.
+	Settings Page: Toggle dashboard preferences like notifications, auto-save, and grade visibility.
+	Profile Section: View student info such as name, grade, and skill set.
+	Responsive UI: Fully optimized layout for both desktop and mobile devices.
+	Real-Time Notifications: Notification bell icon updates in real-time on first load.
+	Centralized Data Flow: Ensures smooth and synchronized updates across all modules.
+
+5. Blogging Website   (DONT ADD THIS PROJECT IN MY RESUME THIS WILL BE USED AS MY PORTFOLIO WEBSITE LINK)
 livelink:- https://rahulwrites.onrender.com
 Github:- https://github.com/Rahul122703/Blogging-website
 	TechStack:htmlCSSJS(FE all vanilla) Flask(backend) SQL(Database)
@@ -60,7 +78,7 @@ Github:- https://github.com/Rahul122703/Blogging-website
 	Comment Section: Visitors can leave comments on each blog post.
 	Personal Use: Designed mainly for my own blogging needs and experiments with backend features.
 
-5. Rohan Arts (done)  
+6. Rohan Arts (done)  
 livelink:- https://rohanarts.vercel.app
 Github:- https://github.com/Rahul122703/rohan_arts
 	TechStack:htmlCSSJS(FE all vanilla)
@@ -72,16 +90,16 @@ Github:- https://github.com/Rahul122703/rohan_arts
         		Works on All Devices: The site looks good and works well on phones and computers.
         		Shows Artist’s Work: Displays different art styles and includes ways to contact the artist for commissions.
 
-6. Elementary Apps 
+7. Elementary Apps 
 livelink:- https://rahulsharmahosted.netlify.app
 Github: - https://github.com/Rahul122703/all_hosted_project_list
 	Description: This website serves as a central collection or portfolio showcasing a variety of web projects and scripts developed by Rahul Sharma. It organizes projects into different categories like full-	stack apps, frontend-only sites, serverless functions, and Python scripts
 
-7. LinkedIn Automation
+8. LinkedIn Automation
 Github: - https://github.com/Rahul122703/linkedinAutomation
 	Description: This is a selenium python script which takes account credential and does everything it self to apply for python jobs
 
-8. SIH scraping (Web Scraping)
+9. SIH scraping (Web Scraping)
 Github: - https://github.com/Rahul122703/SIHscraping
 	Description: This i made to takeout all the data from SmartIndiaHackathon Website to extract all the data and add into excel sheet
 
@@ -95,7 +113,7 @@ sem 2 -- > 8.40
 sem 3 -- > 8.78
 sem 4 -- > 7.65
 sem 5 -- > 8.30
-sem 6 -- > yet to accounce
+sem 6 -- > 8.45
 DONT ADD ALL SEM RESULT JUST TAKE AVERAGE OF ALL
 2. HSC --> 61.17% (2022)
 3. SSC --> 77.20% (2019)
@@ -181,5 +199,6 @@ LinkedIn :- https://www.linkedin.com/in/rahul122703/
 Drive (resume) :- https://drive.google.com/file/d/1N33rwP9bsgpLEAMhO2O5Zl34lnDryGex/view?usp=drive_link
 
 NOTE :- MAKE SURE LINKS ARE NOT VISIBLE IN THE RESUME HIDE IT USING A TEXT MAKE THE TEXT CLICKABLE
+
 
 
