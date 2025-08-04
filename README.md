@@ -35,6 +35,8 @@
     </div>
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=rahul122703&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
 <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me Icon">
 </picture>
