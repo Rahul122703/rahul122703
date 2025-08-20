@@ -67,7 +67,23 @@ Key Features:
 	Real-Time Notifications: Notification bell icon updates in real-time on first load.
 	Centralized Data Flow: Ensures smooth and synchronized updates across all modules.
 
-5. Blogging Website   (DONT ADD THIS PROJECT IN MY RESUME THIS WILL BE USED AS MY PORTFOLIO WEBSITE LINK)
+5. Easy Share (done)
+Live Link: https://sharebro.onrender.com
+GitHub: https://github.com/Rahul122703/sharesense
+TechStack: Next.js, SQLite
+Description:
+Easy Share is a secure and user-friendly file and content-sharing platform. It allows individuals and teams to upload, manage, and share files without size limitations, while ensuring data protection through encryption and role-based access.
+Key Features:
+User Authentication: Secure account-based login with multi-factor authentication.
+File Upload: Drag-and-drop functionality with support for multiple file types.
+Shareable Links: Generate one-time use or expirable links with role-based access control.
+General Sharing: Share files in a public section without login.
+Rooms: Create rooms with unique usernames for controlled file sharing.
+Encrypted Transfers: End-to-end encryption ensures data security.
+Scalability: Cloud-ready structure to support high concurrent usage.
+Multi-device Access: Works seamlessly across desktop and mobile.
+
+6. Blogging Website   (DONT ADD THIS PROJECT IN MY RESUME THIS WILL BE USED AS MY PORTFOLIO WEBSITE LINK)
 livelink:- https://rahulwrites.onrender.com
 Github:- https://github.com/Rahul122703/Blogging-website
 	TechStack:htmlCSSJS(FE all vanilla) Flask(backend) SQL(Database)
@@ -78,7 +94,7 @@ Github:- https://github.com/Rahul122703/Blogging-website
 	Comment Section: Visitors can leave comments on each blog post.
 	Personal Use: Designed mainly for my own blogging needs and experiments with backend features.
 
-6. Rohan Arts (done)  
+7. Rohan Arts (done)  
 livelink:- https://rohanarts.vercel.app
 Github:- https://github.com/Rahul122703/rohan_arts
 	TechStack:htmlCSSJS(FE all vanilla)
@@ -90,16 +106,16 @@ Github:- https://github.com/Rahul122703/rohan_arts
         		Works on All Devices: The site looks good and works well on phones and computers.
         		Shows Artist’s Work: Displays different art styles and includes ways to contact the artist for commissions.
 
-7. Elementary Apps 
+8. Elementary Apps 
 livelink:- https://rahulsharmahosted.netlify.app
 Github: - https://github.com/Rahul122703/all_hosted_project_list
 	Description: This website serves as a central collection or portfolio showcasing a variety of web projects and scripts developed by Rahul Sharma. It organizes projects into different categories like full-	stack apps, frontend-only sites, serverless functions, and Python scripts
 
-8. LinkedIn Automation
+9. LinkedIn Automation
 Github: - https://github.com/Rahul122703/linkedinAutomation
 	Description: This is a selenium python script which takes account credential and does everything it self to apply for python jobs
 
-9. SIH scraping (Web Scraping)
+10. SIH scraping (Web Scraping)
 Github: - https://github.com/Rahul122703/SIHscraping
 	Description: This i made to takeout all the data from SmartIndiaHackathon Website to extract all the data and add into excel sheet
 
@@ -199,6 +215,7 @@ LinkedIn :- https://www.linkedin.com/in/rahul122703/
 Drive (resume) :- https://drive.google.com/file/d/1N33rwP9bsgpLEAMhO2O5Zl34lnDryGex/view?usp=drive_link
 
 NOTE :- MAKE SURE LINKS ARE NOT VISIBLE IN THE RESUME HIDE IT USING A TEXT MAKE THE TEXT CLICKABLE
+
 
 
 
