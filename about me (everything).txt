@@ -192,9 +192,12 @@ experience:
 1. KanoonKeHaath as SDE (24 dec 2024 - present) 
 Internship Completion certifiate link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134880/kkhcertificate_ivbe5w.png
 desc:-
-1. made backend REST api using next js 
-2. made Frontend using reactjs and TailwindCSS
-3. learned to use postmant to test REST APIs
+1. Designed and developed scalable backend REST APIs using Next.js to handle business logic and data management.
+2. Built and optimized frontend components with React.js and TailwindCSS, accurately cloning Figma designs into responsive and user-friendly UIs.
+3. Implemented secure API integrations, ensuring smooth communication between frontend and backend systems.
+4. Conducted API testing and debugging with Postman, improving reliability and performance.
+5. Collaborated with the team to deliver end-to-end features, from UI design to backend integration.
+6. Gained hands-on experience in agile development practices, version control with Git, and full-stack workflows.
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -215,6 +218,7 @@ LinkedIn :- https://www.linkedin.com/in/rahul122703/
 Drive (resume) :- https://drive.google.com/file/d/1N33rwP9bsgpLEAMhO2O5Zl34lnDryGex/view?usp=drive_link
 
 NOTE :- MAKE SURE LINKS ARE NOT VISIBLE IN THE RESUME HIDE IT USING A TEXT MAKE THE TEXT CLICKABLE
+
 
 
 
