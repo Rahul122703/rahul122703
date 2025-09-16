@@ -123,7 +123,7 @@ Testing & Scraping : Selenium , BeautifulSoup
 Frontend : React.js , Next.js , TailwindCSS , Bootstrap
 Backend & APIs : Flask , Express.js (Node.js), Postman
 Languages & Tools : JavaScript , TypeScript , C++ , Python , SQL , Git
-Business Tools: PowerBI, Excel, Pandas,Tableau
+Business Tools: PowerBI, Excel, Pandas,Tableau (dont add this for now)
 ---------------------------------------------------------------------------------------------------------------------
 achivements:
 1. First price for pollverse in College project exhibition competition (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751137649/PollverseFirstPrice_ji8usj.png)
