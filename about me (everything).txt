@@ -4,7 +4,7 @@ My Portfolio Site
 https://rahulwrites.onrender.com
 ---------------------------------------------------------------------------------------------------------------------
 Carrer Objective:-
-I am a full‑stack web developer with hands‑on experience in React, Next.js, Flask, and Django, and I build REST APIs alongside responsive user interfaces using vanillaCSS,TailwindCSS. I enjoy solving problems and automating tasks to create smooth, user‑friendly applications.
+Full-stack developer with multiple internship experiences, specializing in frontend and with solid backend knowledge. Skilled at building responsive interfaces, databases, APIs, and web scraping, with active GitHub contributions. Experienced in Git and SCRUM collaboration, with strong knowledge of authentication, state management tools.
 ---------------------------------------------------------------------------------------------------------------------
 contact :- 8291147114
 LinkedIn: https://www.linkedin.com/in/rahul122703/
@@ -13,7 +13,7 @@ email:- rsharma122703@gmail.com
 ---------------------------------------------------------------------------------------------------------------------
 
 projects:-
-1. pollverse (done) 
+1. pollverse (done) (to add)
 livelink:- https://pollversey.onrender.com 
 github:-  https://github.com/Rahul122703/pollverse
 	TechStack:htmlCSSJS(FE all vanilla) Flask(backend),SqlAlchemy,MatPlotLib,werkzeug
@@ -35,7 +35,7 @@ github:-  https://github.com/Rahul122703/rshare
 		∗ User Authentication: Secure, account-based file access with OTP .
 		∗ Can upload 50+ files at a time iresspective of file type
 
-3. rahulmart (done)  
+3. rahulmart (done) (to add)  
 livelink:- https://rahulmart.netlify.app
 Github:- https://github.com/Rahul122703/rahulmart
 	TechStack:React.js,TailwindCSS,netlify-serverless-function, AirTable
@@ -85,6 +85,20 @@ Github: - https://github.com/Rahul122703/linkedinAutomation
 Github: - https://github.com/Rahul122703/SIHscraping
 	Description: This i made to takeout all the data from SmartIndiaHackathon Website to extract all the data and add into excel sheet
 
+9. ShareBro (to add)
+livelink:- https://sharebro.onrender.com
+Github:- https://github.com/Rahul122703/sharesense
+    TechStack: Next.js, Redux, SQLite, Prisma, Socket.IO, Render
+    Description: ShareBro is a platform to securely share documents and content without relying on WhatsApp. 
+    Users can upload files anonymously or by logging in, and store them safely in the cloud.
+    Key Features:
+		Dashboard like UI
+        SEO: Optimized for discoverability and better user reach.
+        Multiple File Sharing: Share different files seamlessly with others.
+        Room Creation Chat: Create rooms for group sharing and communication.
+        Secure Sharing: Ensures files are shared with privacy and reliability.
+        JWT Authentication: Provides secure login and user identity management.
+        Gemini AI Integration: Smart assistance and enhanced functionality with AI.
 ---------------------------------------------------------------------------------------------------------------------
 Education:- 
 1. Xaiver Institute of Engineering (2022-present (sem 7))
@@ -95,27 +109,25 @@ sem 2 -- > 8.40
 sem 3 -- > 8.78
 sem 4 -- > 7.65
 sem 5 -- > 8.30
-sem 6 -- > yet to accounce
+sem 6 -- > 8.45
 DONT ADD ALL SEM RESULT JUST TAKE AVERAGE OF ALL
 2. HSC --> 61.17% (2022)
 3. SSC --> 77.20% (2019)
+use this formula for AVERAGE
+final average = (sem1 + sem2 + .. + semN)/ total number of sem
 ---------------------------------------------------------------------------------------------------------------------
-
-programming languages i know:- Javascript,C/C++,Python
-other languages:- HTML,CSS,SQL
-
-web technologies:
-	Frontend:- ReactJS,Bootstrap,tailwind
-	Backend:Django_rest_framework, Flask, Nextjs,postman 
-
-Automation: - selenium
-Web Scarping: - BeautifulSoup  
-VCS :- Git/Github
-
+Technical skills
+Databases : MongoDB , SQLite , Airtable
+Deployment : AWS , Render , Netlify , Vercel
+Testing & Scraping : Selenium , BeautifulSoup
+Frontend : React.js , Next.js , TailwindCSS , Bootstrap
+Backend & APIs : Flask , Express.js (Node.js), Postman
+Languages & Tools : JavaScript , TypeScript , C++ , Python , SQL , Git
+Business Tools: PowerBI, Excel, Pandas,Tableau
 ---------------------------------------------------------------------------------------------------------------------
 achivements:
 1. First price for pollverse in College project exhibition competition (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751137649/PollverseFirstPrice_ji8usj.png)
-2. In top 4 team in intercollege hackathon (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134881/24hrhack_ifojuw.png)
+2. In top 4 team in 24 hrs intercollege Technova hackathon (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134881/24hrhack_ifojuw.png)
 3. Entrance : - 94 Percentile Got TFWS scholarship among Top 3 student (Dont Add this in my Resume)
 4. Touch Typing (Profile :- https://www.chess.com/member/rahul122703) top 11.76 % on monkeytype in 15 sec category
 5. Silver medal in youth india olympics in Taekwondo (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751221034/takewondo_yqqgk1.jpg)
@@ -160,13 +172,29 @@ Internship Completion certifiate link :- https://res.cloudinary.com/dle5gmw0f/im
 desc:-
 1. made backend REST api using next js 
 2. made Frontend using reactjs and TailwindCSS
-3. learned to use postmant to test REST APIs
+3. learned to use postman to test REST APIs
+4. Used Git and Github to manage the code base 
+6. Used Jira for project tracking
+
+Frontend Developer at LeafnyWebPack (Sept 2025 – Present)
+Internship Completion Certificate: https://res.cloudinary.com/dle5gmw0f/image/upload/v1757077337/LeafnyWebPack_ig1g1s.png
+1. Translated Figma designs into responsive, production-ready web interfaces.
+2. Maintained and scaled a SaaS product to ensure performance and reliability.
+3. Collaborated using Slack, SCRUM meetings, and Git for version control.
+4. Designed and delivered client-focused landing pages optimized for usability and conversions.
+
+Software Development Intern at aAHARAN EduSMART Pvt. Ltd. (Aug 2023 – Oct 2023)
+Internship Completion Certificate: https://res.cloudinary.com/dle5gmw0f/image/upload/v1757994794/AaharanEduSmart_rahul_sharma_expLetter_uurgws.png
+1. Contributed to the Novare Project (https://novareretreats.com/) with secure, scalable, and reliable web modules.
+2. Delivered client-focused solutions with CI/CD integration for quality, usability, and timely deployment.
+3. Implemented global state management with Redux Toolkit to handle complex workflows efficiently.
+4. Built responsive and dynamic interfaces while improving code maintainability using TypeScript.
 
 ---------------------------------------------------------------------------------------------------------------------
 
-extra - curricular
-TPO co-ordinator (20 aug 2024 - present)
-	desc- managed many college placements 
+Extra-Curricular
+TPO Coordinator (20 Aug 2024 – Present)
+I Worked as a Placement Coordinator in my college’s Training and Placement Office (TPO). Along with my teammates, I help manage campus placement activities. This includes taking attendance during drives, making announcements, coordinating with HR representatives from different companies, and ensuring smooth communication between students and recruiters. Through this role, I have improved my communication, teamwork, and event management skills.
 
 ---------------------------------------------------------------------------------------------------------------------
 Hobbies:-
@@ -180,6 +208,6 @@ portfolio :- https://rahulwrites.onrender.com
 LinkedIn :- https://www.linkedin.com/in/rahul122703/
 Drive (resume) :- https://drive.google.com/file/d/1N33rwP9bsgpLEAMhO2O5Zl34lnDryGex/view?usp=drive_link
 
-NOTE :- MAKE SURE LINKS ARE NOT VISIBLE IN THE RESUME HIDE IT USING A TEXT MAKE THE TEXT CLICKABLE
+NOTE :- MAKE SURE LINKS ARE NOT VISIBLE IN THE RESUME HIDE IT USING A TEXT MAKE THE TEXT CLICKABLE AND MAKE USE OF SIMPLE ENGLISH ANG BOLD IMP WORDS
 
 
