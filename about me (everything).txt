@@ -13,7 +13,7 @@ email:- rsharma122703@gmail.com
 ---------------------------------------------------------------------------------------------------------------------
 
 projects:-
-1. pollverse (done) (to add)
+1. ``lverse (done) (to add)
 livelink:- https://pollversey.onrender.com 
 github:-  https://github.com/Rahul122703/pollverse
 	TechStack:htmlCSSJS(FE all vanilla) Flask(backend),SqlAlchemy,MatPlotLib,werkzeug
@@ -165,6 +165,8 @@ achivements:
 3. Entrance : - 94 Percentile Got TFWS scholarship among Top 3 student (Dont Add this in my Resume)
 4. Touch Typing (Profile :- https://www.chess.com/member/rahul122703) top 11.76 % on monkeytype in 15 sec category
 5. Silver medal in youth india olympics in Taekwondo (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751221034/takewondo_yqqgk1.jpg)
+6. Hackathon Winner (Certificate) - Won the Fourth Prize among 28 teams in a college-level hackathon competition.
+7. Won first price for sharebro at college level exhibition competition;
 ---------------------------------------------------------------------------------------------------------------------
 
 Certifications :
@@ -243,5 +245,6 @@ LinkedIn :- https://www.linkedin.com/in/rahul122703/
 Drive (resume) :- https://drive.google.com/file/d/1N33rwP9bsgpLEAMhO2O5Zl34lnDryGex/view?usp=drive_link
 
 NOTE :- MAKE SURE LINKS ARE NOT VISIBLE IN THE RESUME HIDE IT USING A TEXT MAKE THE TEXT CLICKABLE AND MAKE USE OF SIMPLE ENGLISH ANG BOLD IMP WORDS
+
 
 
