@@ -1,7 +1,7 @@
 Full Name : - Rahul Sharma
 --------------------------------------------------------------------------------------------------------------------
 My Portfolio Site 
-https://rahulwrites.onrender.com
+https://sharmarahul.netlify.app
 ---------------------------------------------------------------------------------------------------------------------
 Carrer Objective:-
 Full-stack developer with multiple internship experiences, specializing in frontend and with solid backend knowledge. Skilled at building responsive interfaces, databases, APIs, and web scraping, with active GitHub contributions. Experienced in Git and SCRUM collaboration, with strong knowledge of authentication, state management tools.
@@ -245,6 +245,7 @@ LinkedIn :- https://www.linkedin.com/in/rahul122703/
 Drive (resume) :- https://drive.google.com/file/d/1N33rwP9bsgpLEAMhO2O5Zl34lnDryGex/view?usp=drive_link
 
 NOTE :- MAKE SURE LINKS ARE NOT VISIBLE IN THE RESUME HIDE IT USING A TEXT MAKE THE TEXT CLICKABLE AND MAKE USE OF SIMPLE ENGLISH ANG BOLD IMP WORDS
+
 
 
 
