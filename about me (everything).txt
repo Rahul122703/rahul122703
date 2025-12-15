@@ -13,7 +13,7 @@ email:- rsharma122703@gmail.com
 ---------------------------------------------------------------------------------------------------------------------
 
 projects:-
-1. ``lverse (done) (to add)
+1. pollverse (done) (to add)
 livelink:- https://pollversey.onrender.com 
 github:-  https://github.com/Rahul122703/pollverse
 	TechStack:htmlCSSJS(FE all vanilla) Flask(backend),SqlAlchemy,MatPlotLib,werkzeug
@@ -144,6 +144,7 @@ sem 3 -- > 8.78
 sem 4 -- > 7.65
 sem 5 -- > 8.30
 sem 6 -- > 8.45
+sem 7 -- > 8.23
 DONT ADD ALL SEM RESULT JUST TAKE AVERAGE OF ALL
 2. HSC --> 61.17% (2022)
 3. SSC --> 77.20% (2019)
@@ -245,6 +246,7 @@ LinkedIn :- https://www.linkedin.com/in/rahul122703/
 Drive (resume) :- https://drive.google.com/file/d/1N33rwP9bsgpLEAMhO2O5Zl34lnDryGex/view?usp=drive_link
 
 NOTE :- MAKE SURE LINKS ARE NOT VISIBLE IN THE RESUME HIDE IT USING A TEXT MAKE THE TEXT CLICKABLE AND MAKE USE OF SIMPLE ENGLISH ANG BOLD IMP WORDS
+
 
 
 
