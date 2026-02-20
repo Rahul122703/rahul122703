@@ -227,6 +227,12 @@ Internship Completion Certificate: https://res.cloudinary.com/dle5gmw0f/image/up
 3. Implemented global state management with Redux Toolkit to handle complex workflows efficiently.
 4. Built responsive and dynamic interfaces while improving code maintainability using TypeScript.
 
+Software Developer Intern at WildWestJ Fords (Jan 2026 -- June 2026 (Expected))
+Internship Completion Certificate: \underline{\href{https://your-certificate-link.com}{View Certificate}} 
+1. Built and optimized production-level frontend features using React (Vite), ensuring responsive and scalable user interfaces. 
+2. Integrated high-performance REST APIs into the frontend application. \\
+3. Implemented data caching and performance optimization techniques to improve application speed and reduce unnecessary re-renders.
+4. Maintained clean, reusable code and collaborated using Git-based workflows for structured and efficient development. 
 ---------------------------------------------------------------------------------------------------------------------
 
 Extra-Curricular
@@ -246,6 +252,7 @@ LinkedIn :- https://www.linkedin.com/in/rahul122703/
 Drive (resume) :- https://drive.google.com/file/d/1N33rwP9bsgpLEAMhO2O5Zl34lnDryGex/view?usp=drive_link
 
 NOTE :- MAKE SURE LINKS ARE NOT VISIBLE IN THE RESUME HIDE IT USING A TEXT MAKE THE TEXT CLICKABLE AND MAKE USE OF SIMPLE ENGLISH ANG BOLD IMP WORDS
+
 
 
 
