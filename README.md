@@ -23,6 +23,9 @@
         <a target="_blank" href="https://github.com/rahul122703">
             <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
         </a>
+        <a target="_blank" href="https://sharmarahul.netlify.app">
+            <img src="https://img.icons8.com/doodle/40/000000/domain.png" alt="Portfolio">
+        </a>
         <a target="_blank" href="https://monkeytype.com/profile/rahul122703">
             <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/svg/alduin.svg" style="width:50px; aspect-ratio:1/1;" alt="Monkey Type">
         </a>
@@ -34,7 +37,6 @@
         </a>
     </div>
 </p>
-
 ![Profile views](https://komarev.com/ghpvc/?username=rahul122703&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 <picture>
