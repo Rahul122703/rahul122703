@@ -329,20 +329,9 @@ with **TypeScript**, and delivered client-focused work through **CI/CD**.
 
 </td></tr>
 </table>
-
 ---
 
-## `// 07 · EDUCATION`
-
-| institution | qualification | result |
-| :--- | :--- | :--- |
-| **Xavier Institute of Engineering**, Mumbai · 2022 – present | B.E. Information Technology | **CGPA 8.28** across seven semesters |
-| **Elphinstone College**, Mumbai · 2022 | H.S.C. | 61.17% |
-| **M.V. High School**, Mumbai · 2019 | S.S.C. | 77.20% |
-
----
-
-## `// 08 · SIGNALS`
+## `// 09 · SIGNALS`
 
 ```text
 COUNTED, NOT ESTIMATED
@@ -384,7 +373,7 @@ COUNTED, NOT ESTIMATED
 
 ---
 
-## `// 09 · HOW I WORK`
+## `// 10 · HOW I WORK`
 
 - **Auth is part of version one.** Every project I ship has a login worth attacking — OTP, JWT, OAuth — because retrofitting access control means rewriting the data model.
 - **Deploy early, then keep it up.** A live URL exposes what localhost hides: cold starts, upload limits, CORS, environment drift.
@@ -395,7 +384,7 @@ COUNTED, NOT ESTIMATED
 
 ---
 
-## `// 10 · PIPELINE`
+## `// 11 · PIPELINE`
 
 ```text
 DELIVERY PIPELINE
@@ -411,7 +400,7 @@ iterate   SCRUM, client feedback, fix, repeat
 
 ---
 
-## `// 11 · FOCUS BOARD`
+## `// 12 · FOCUS BOARD`
 
 ```text
 WHERE MY TIME GOES RIGHT NOW
@@ -427,7 +416,7 @@ status = where the hours go, not a skill rating
 
 ---
 
-## `// 12 · BEYOND CODE`
+## `// 13 · BEYOND CODE`
 
 **Placement Coordinator** — Training & Placement Office, Xavier Institute of Engineering
 *(August 2024 – present)*. I help run campus placement drives with my team: attendance at
@@ -446,7 +435,7 @@ of Monkeytype's 15-second category.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:39D353,100:0D1117" width="100%" alt="" />
 
-## `// 13 · LET'S BUILD`
+## `// 14 · LET'S BUILD`
 
 Open to full-stack product work, backend and API systems, cloud and deployment
 engineering, and collaboration on problems that take more than a weekend.
