@@ -1,46 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:1F6FEB,100:58A6FF&text=RAHUL%20SHARMA&fontColor=FFFFFF&fontSize=52&fontAlignY=32&desc=Full%20Stack%20Developer%20%C2%B7%20Mumbai,%20India&descAlignY=52&descSize=18&animation=fadeIn" alt="Rahul Sharma — Full Stack Developer, Mumbai, India" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:1F6FEB,100:39D353&text=RAHUL%20SHARMA&fontColor=FFFFFF&fontSize=54&fontAlignY=32&desc=Full%20Stack%20Developer%20%C2%B7%20Mumbai,%20India&descAlignY=52&descSize=18&animation=fadeIn" alt="Rahul Sharma — Full Stack Developer, Mumbai, India" width="100%" />
 
 <a href="https://sharmarahul.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=58A6FF&center=true&vCenter=true&width=560&height=34&lines=React+%7C+Next.js+%7C+Flask+%7C+REST+APIs;8+live+deployments+%7C+4+engineering+roles;Frontend-heavy%2C+backend-capable;I+ship+things+and+then+I+keep+them+up" alt="React, Next.js, Flask and REST APIs — 8 live deployments across 4 engineering roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1300&color=39D353&center=true&vCenter=true&width=600&height=36&lines=React+%7C+Next.js+%7C+Flask+%7C+REST+APIs;8+live+deployments+%7C+4+engineering+roles;Frontend-heavy%2C+backend-capable;I+ship+things+%E2%80%94+then+I+keep+them+up" alt="React, Next.js, Flask and REST APIs — 8 live deployments across 4 engineering roles" />
 </a>
 
-<p>
-  <a href="https://github.com/Rahul122703"><img src="https://img.shields.io/badge/GitHub-Rahul122703-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/rahul122703/"><img src="https://img.shields.io/badge/LinkedIn-rahul122703-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn profile" /></a>
-  <a href="https://sharmarahul.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Live-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=0D1117" alt="Portfolio website" /></a>
-  <a href="mailto:rsharma122703@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email Rahul Sharma" /></a>
-</p>
+<br/><br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Rahul122703&label=PROFILE%20VIEWS&color=0d1117&style=for-the-badge" alt="Profile view counter" />
-  <a href="https://github.com/Rahul122703?tab=followers"><img src="https://img.shields.io/github/followers/Rahul122703?style=for-the-badge&logo=github&logoColor=FFFFFF&label=FOLLOWERS&labelColor=0D1117&color=0D1117" alt="GitHub followers" /></a>
-  <a href="https://github.com/Rahul122703?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20TO-WORK-0D1117?style=for-the-badge&logo=briefcase&logoColor=58A6FF&labelColor=0D1117" alt="Open to work" /></a>
-</p>
+<a href="https://sharmarahul.netlify.app"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=0D1117" alt="View portfolio" /></a>
+<a href="mailto:rsharma122703@gmail.com"><img src="https://img.shields.io/badge/HIRE%20ME-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email Rahul Sharma" /></a>
+<a href="https://www.linkedin.com/in/rahul122703/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn profile" /></a>
+<a href="https://github.com/Rahul122703"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub profile" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:39D353,100:0D1117" width="100%" alt="" />
 
 </div>
-
----
-
-## `// 01 · ENGINEERING ACTIVITY`
 
 <div align="center">
 
-<img height="170" alt="GitHub statistics for Rahul122703: total commits, pull requests, stars and contributions" src="https://github-readme-stats.vercel.app/api?username=Rahul122703&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&cache_seconds=86400" />
-<img height="170" alt="Contribution streak for Rahul122703: current streak, longest streak and total contributions" src="https://streak-stats.demolab.com?user=Rahul122703&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+## `// CONTRIBUTION ACTIVITY`
 
-<img height="170" alt="Most-used languages across Rahul122703's repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul122703&layout=compact&langs_count=10&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" />
+<img height="180" alt="Contribution streak for Rahul122703: total contributions, current streak and longest streak" src="https://streak-stats.demolab.com?user=Rahul122703&background=0D1117&border=30363D&stroke=30363D&ring=39D353&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E" />
 
-<img width="98%" alt="Contribution activity graph for Rahul122703 over the past year" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul122703&custom_title=Commit%20Activity&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&title_color=58A6FF&hide_border=false&border_color=30363D" />
+<br/><br/>
 
-<img width="98%" alt="GitHub profile trophies earned by Rahul122703" src="https://github-profile-trophy.vercel.app/?username=Rahul122703&theme=darkhub&no-frame=true&no-bg=true&column=-1&margin-w=6&margin-h=6" />
+<img width="96%" alt="Rahul122703's GitHub contribution heatmap for the past year" src="https://ghchart.rshah.org/39D353/Rahul122703" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul122703/rahul122703/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul122703/rahul122703/output/github-contribution-grid-snake.svg" />
+  <img width="96%" alt="Animated snake eating Rahul122703's GitHub contribution squares" src="https://raw.githubusercontent.com/Rahul122703/rahul122703/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/><br/>
+
+<img height="190" alt="Top languages by repository for Rahul122703" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahul122703&theme=github_dark" />
+<img height="190" alt="Commits by hour of day for Rahul122703, UTC +5.5" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rahul122703&theme=github_dark&utcOffset=5.5" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:1F6FEB,100:0D1117" width="100%" alt="" />
 
 </div>
 
----
-
-## `// 02 · SYSTEM`
+## `// 01 · WHO I AM`
 
 ```text
 ENGINEERING PROFILE
@@ -60,33 +68,32 @@ method      design → build → ship → revise
 
 Full-stack developer with four internships behind me, strongest on the frontend and
 comfortable underneath it. I build responsive interfaces, design the REST APIs and
-database schemas they talk to, wire up authentication that is worth attacking, and
-push the whole thing to a public URL. Eight of my projects are live on the internet
-right now. I work in Git and SCRUM teams, and I automate anything I catch myself
-doing twice.
+database schemas they talk to, wire up authentication worth attacking, and push the
+whole thing to a public URL. Eight of my projects are live on the internet right now.
+I work in Git and SCRUM teams, and I automate anything I catch myself doing twice.
 
 ---
 
-## `// 03 · TECH STACK`
+## `// 02 · TECH STACK`
 
 <div align="center">
 
-**Languages**<br/>
+<b>LANGUAGES</b><br/>
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark" alt="JavaScript, TypeScript, Python, C++, HTML, CSS" />
 
-**Frontend**<br/>
+<b>FRONTEND</b><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite&theme=dark" alt="React, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap, Vite" />
 
-**Backend & APIs**<br/>
+<b>BACKEND &amp; APIS</b><br/>
 <img src="https://skillicons.dev/icons?i=flask,nodejs,express,prisma,postman&theme=dark" alt="Flask, Node.js, Express.js, Prisma, Postman" />
 
-**Databases**<br/>
+<b>DATABASES</b><br/>
 <img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql&theme=dark" alt="SQLite, MongoDB, MySQL" />
 
-**Cloud & Deployment**<br/>
+<b>CLOUD &amp; DEPLOYMENT</b><br/>
 <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,cloudflare&theme=dark" alt="AWS, Vercel, Netlify, Cloudflare" />
 
-**Tools & Workflow**<br/>
+<b>TOOLS &amp; WORKFLOW</b><br/>
 <img src="https://skillicons.dev/icons?i=git,github,selenium,figma,jira,vscode&theme=dark" alt="Git, GitHub, Selenium, Figma, Jira, VS Code" />
 
 </div>
@@ -106,7 +113,7 @@ Not every tool has an icon. The rest of what I actually use:
 
 ---
 
-## `// 04 · WHAT I BUILD`
+## `// 03 · WHAT I BUILD`
 
 | domain | what that means in practice |
 | :--- | :--- |
@@ -118,7 +125,7 @@ Not every tool has an icon. The rest of what I actually use:
 
 ---
 
-## `// 05 · FEATURED PROJECTS`
+## `// 04 · FEATURED PROJECTS`
 
 <table>
 <tr>
@@ -137,7 +144,10 @@ Serverless API layer · Stripe integration · OAuth · Category filtering, sorti
 <img src="https://img.shields.io/badge/Airtable-0D1117?style=flat-square&logo=airtable&logoColor=18BFFF" alt="Airtable" />
 <img src="https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe" />
 </p>
-<p><a href="https://rahulmart.netlify.app"><b>Live</b></a> · <a href="https://github.com/Rahul122703/rahulmart"><b>Source</b></a></p>
+<p>
+<a href="https://rahulmart.netlify.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D1117?style=for-the-badge&logo=netlify&logoColor=39D353&labelColor=0D1117" alt="RahulMart live demo" /></a>
+<a href="https://github.com/Rahul122703/rahulmart"><img src="https://img.shields.io/badge/CODE-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="RahulMart source code" /></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -154,8 +164,11 @@ Sentiment analysis over responses · OTP authentication · Incognito mode · Ema
 <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=python&logoColor=11557C" alt="Matplotlib" />
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="Vanilla JavaScript" />
 </p>
-<p><a href="https://pollversey.onrender.com"><b>Live</b></a> · <a href="https://github.com/Rahul122703/pollverse"><b>Source</b></a><br/>
-<sub>🥇 <b>First prize</b> · college project exhibition</sub></p>
+<p>
+<a href="https://pollversey.onrender.com"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D1117?style=for-the-badge&logo=render&logoColor=39D353&labelColor=0D1117" alt="Pollverse live demo" /></a>
+<a href="https://github.com/Rahul122703/pollverse"><img src="https://img.shields.io/badge/CODE-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="Pollverse source code" /></a>
+</p>
+<p><sub>🥇 <b>First prize</b> · college project exhibition</sub></p>
 
 </td>
 </tr>
@@ -171,12 +184,15 @@ JWT authentication · Prisma schema design · Socket.IO rooms · Gemini AI assis
 <p>
 <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
 <img src="https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux" />
-<img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=2D3748" alt="Prisma" />
+<img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=5A67D8" alt="Prisma" />
 <img src="https://img.shields.io/badge/Socket.IO-0D1117?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO" />
 <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" />
 </p>
-<p><a href="https://sharebro.onrender.com"><b>Live</b></a> · <a href="https://github.com/Rahul122703/sharesense"><b>Source</b></a><br/>
-<sub>🥇 <b>First prize</b> · college exhibition</sub></p>
+<p>
+<a href="https://sharebro.onrender.com"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D1117?style=for-the-badge&logo=render&logoColor=39D353&labelColor=0D1117" alt="ShareBro live demo" /></a>
+<a href="https://github.com/Rahul122703/sharesense"><img src="https://img.shields.io/badge/CODE-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="ShareBro source code" /></a>
+</p>
+<p><sub>🥇 <b>First prize</b> · college exhibition</sub></p>
 
 </td>
 <td width="50%" valign="top">
@@ -194,7 +210,10 @@ Redux Toolkit store design · Resume analysis &amp; progress tracking · Consist
 <img src="https://img.shields.io/badge/Recharts-0D1117?style=flat-square&logo=chartdotjs&logoColor=FF6384" alt="Recharts" />
 <img src="https://img.shields.io/badge/Axios-0D1117?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" />
 </p>
-<p><a href="https://student-ed-tech-dashboard.vercel.app"><b>Live</b></a> · <a href="https://github.com/Rahul122703/StudentEdTechDashboard"><b>Source</b></a></p>
+<p>
+<a href="https://student-ed-tech-dashboard.vercel.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=39D353&labelColor=0D1117" alt="Student Dashboard live demo" /></a>
+<a href="https://github.com/Rahul122703/StudentEdTechDashboard"><img src="https://img.shields.io/badge/CODE-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="Student Dashboard source code" /></a>
+</p>
 
 </td>
 </tr>
@@ -238,20 +257,20 @@ Redux Toolkit store design · Resume analysis &amp; progress tracking · Consist
 
 ---
 
-## `// 06 · EVERYTHING ELSE I'VE SHIPPED`
+## `// 05 · EVERYTHING ELSE I'VE SHIPPED`
 
 | project | what it is | stack | links |
 | :--- | :--- | :--- | :--- |
-| **ShareSense** | The Flask original of ShareBro — drag-and-drop uploads, 50+ files at once regardless of type, OTP-gated access, public sharing | `Flask` `SQLAlchemy` `Werkzeug` `Vanilla JS` | [Live](https://sharesense.onrender.com) · [Source](https://github.com/Rahul122703/rshare) |
-| **rahulwrites** | My own blogging platform — full CRUD on posts, secure dashboard login, comment section | `Flask` `SQL` `Vanilla JS` | [Live](https://rahulwrites.onrender.com) · [Source](https://github.com/Rahul122703/Blogging-website) |
-| **Rohan Arts** | Artist portfolio built with zero frameworks — category filtering, keyword search, commission contact | `HTML` `CSS` `JavaScript` | [Live](https://rohanarts.vercel.app) · [Source](https://github.com/Rahul122703/rohan_arts) |
-| **Elementary Apps** | Index of everything I've deployed, organised by full-stack, frontend, serverless and Python scripts | `HTML` `CSS` `JavaScript` | [Live](https://rahulsharmahosted.netlify.app) · [Source](https://github.com/Rahul122703/all_hosted_project_list) |
-| **LinkedIn Automation** | Selenium script that takes credentials and applies to Python roles end to end, unattended | `Python` `Selenium` | [Source](https://github.com/Rahul122703/linkedinAutomation) |
-| **SIH Scraping** | Scraper that extracts the full Smart India Hackathon problem set into a structured spreadsheet | `Python` `BeautifulSoup` | [Source](https://github.com/Rahul122703/SIHscraping) |
+| **ShareSense** | The Flask original of ShareBro — drag-and-drop uploads, 50+ files at once regardless of type, OTP-gated access, public sharing | `Flask` `SQLAlchemy` `Werkzeug` `Vanilla JS` | [Live](https://sharesense.onrender.com) · [Code](https://github.com/Rahul122703/rshare) |
+| **rahulwrites** | My own blogging platform — full CRUD on posts, secure dashboard login, comment section | `Flask` `SQL` `Vanilla JS` | [Live](https://rahulwrites.onrender.com) · [Code](https://github.com/Rahul122703/Blogging-website) |
+| **Rohan Arts** | Artist portfolio built with zero frameworks — category filtering, keyword search, commission contact | `HTML` `CSS` `JavaScript` | [Live](https://rohanarts.vercel.app) · [Code](https://github.com/Rahul122703/rohan_arts) |
+| **Elementary Apps** | Index of everything I've deployed, organised by full-stack, frontend, serverless and Python scripts | `HTML` `CSS` `JavaScript` | [Live](https://rahulsharmahosted.netlify.app) · [Code](https://github.com/Rahul122703/all_hosted_project_list) |
+| **LinkedIn Automation** | Selenium script that takes credentials and applies to Python roles end to end, unattended | `Python` `Selenium` | [Code](https://github.com/Rahul122703/linkedinAutomation) |
+| **SIH Scraping** | Scraper that extracts the full Smart India Hackathon problem set into a structured spreadsheet | `Python` `BeautifulSoup` | [Code](https://github.com/Rahul122703/SIHscraping) |
 
 ---
 
-## `// 07 · TRACK RECORD`
+## `// 06 · TRACK RECORD`
 
 <table>
 <tr><td width="30%" valign="top">
@@ -313,7 +332,7 @@ with **TypeScript**, and delivered client-focused work through **CI/CD**.
 
 ---
 
-## `// 08 · EDUCATION`
+## `// 07 · EDUCATION`
 
 | institution | qualification | result |
 | :--- | :--- | :--- |
@@ -323,7 +342,7 @@ with **TypeScript**, and delivered client-focused work through **CI/CD**.
 
 ---
 
-## `// 09 · SIGNALS`
+## `// 08 · SIGNALS`
 
 ```text
 COUNTED, NOT ESTIMATED
@@ -365,7 +384,7 @@ COUNTED, NOT ESTIMATED
 
 ---
 
-## `// 10 · HOW I WORK`
+## `// 09 · HOW I WORK`
 
 - **Auth is part of version one.** Every project I ship has a login worth attacking — OTP, JWT, OAuth — because retrofitting access control means rewriting the data model.
 - **Deploy early, then keep it up.** A live URL exposes what localhost hides: cold starts, upload limits, CORS, environment drift.
@@ -376,7 +395,7 @@ COUNTED, NOT ESTIMATED
 
 ---
 
-## `// 11 · PIPELINE`
+## `// 10 · PIPELINE`
 
 ```text
 DELIVERY PIPELINE
@@ -392,7 +411,7 @@ iterate   SCRUM, client feedback, fix, repeat
 
 ---
 
-## `// 12 · FOCUS BOARD`
+## `// 11 · FOCUS BOARD`
 
 ```text
 WHERE MY TIME GOES RIGHT NOW
@@ -408,7 +427,7 @@ status = where the hours go, not a skill rating
 
 ---
 
-## `// 13 · BEYOND CODE`
+## `// 12 · BEYOND CODE`
 
 **Placement Coordinator** — Training & Placement Office, Xavier Institute of Engineering
 *(August 2024 – present)*. I help run campus placement drives with my team: attendance at
@@ -423,30 +442,29 @@ of Monkeytype's 15-second category.
 
 ---
 
-## `// 14 · CONNECT`
-
 <div align="center">
 
-### LET'S BUILD
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:39D353,100:0D1117" width="100%" alt="" />
+
+## `// 13 · LET'S BUILD`
 
 Open to full-stack product work, backend and API systems, cloud and deployment
 engineering, and collaboration on problems that take more than a weekend.
 
-<p>
-  <a href="https://github.com/Rahul122703"><img src="https://img.shields.io/badge/GitHub-Rahul122703-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/rahul122703/"><img src="https://img.shields.io/badge/LinkedIn-rahul122703-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn profile" /></a>
-  <a href="mailto:rsharma122703@gmail.com"><img src="https://img.shields.io/badge/Gmail-rsharma122703-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email Rahul Sharma" /></a>
-</p>
-<p>
-  <a href="https://sharmarahul.netlify.app"><img src="https://img.shields.io/badge/Portfolio-sharmarahul-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=0D1117" alt="Portfolio website" /></a>
-  <a href="https://rahulwrites.onrender.com"><img src="https://img.shields.io/badge/Blog-rahulwrites-0D1117?style=for-the-badge&logo=readme&logoColor=FFFFFF&labelColor=0D1117" alt="Blog" /></a>
-  <a href="https://stackoverflow.com/users/21504143/rahul-sharma"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025&labelColor=0D1117" alt="Stack Overflow profile" /></a>
-</p>
-
 <br/>
+
+<a href="mailto:rsharma122703@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email Rahul Sharma" /></a>
+<a href="https://www.linkedin.com/in/rahul122703/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn profile" /></a>
+<a href="https://github.com/Rahul122703"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub profile" /></a>
+
+<a href="https://sharmarahul.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=0D1117" alt="Portfolio website" /></a>
+<a href="https://rahulwrites.onrender.com"><img src="https://img.shields.io/badge/BLOG-0D1117?style=for-the-badge&logo=readme&logoColor=FFFFFF&labelColor=0D1117" alt="Blog" /></a>
+<a href="https://stackoverflow.com/users/21504143/rahul-sharma"><img src="https://img.shields.io/badge/STACK%20OVERFLOW-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025&labelColor=0D1117" alt="Stack Overflow profile" /></a>
+
+<br/><br/>
 
 <sub><code>~/rahul-sharma</code> · ships it, then reads the logs</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:58A6FF,50:1F6FEB,100:0D1117" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:39D353,50:1F6FEB,100:0D1117" alt="" width="100%" />
 
 </div>
