@@ -4,9 +4,9 @@ My Portfolio Site
 https://sharmarahul.netlify.app
 ---------------------------------------------------------------------------------------------------------------------
 Carrer Objective:-
-Full-stack developer with multiple internship experiences, specializing in frontend and with solid backend knowledge. Skilled at building responsive interfaces, databases, APIs, and web scraping, with active GitHub contributions. Experienced in Git and SCRUM collaboration, with strong knowledge of authentication, state management tools.
+Full-stack developer with multiple internship experiences, skilled in building responsive web applications, designing and managing databases, developing APIs, and implementing web scraping solutions. Proficient in frontend and backend technologies, authentication, and state management, with active GitHub contributions and experience collaborating in teams using Git and SCRUM methodologies.
 ---------------------------------------------------------------------------------------------------------------------
-contact :- 8291147114
+contact :- +91 8291147114
 LinkedIn: https://www.linkedin.com/in/rahul122703/
 Github :- https://github.com/rahul122703/
 email:- rsharma122703@gmail.com
@@ -83,7 +83,7 @@ Encrypted Transfers: End-to-end encryption ensures data security.
 Scalability: Cloud-ready structure to support high concurrent usage.
 Multi-device Access: Works seamlessly across desktop and mobile.
 
-6. Blogging Website   (DONT ADD THIS PROJECT IN MY RESUME THIS WILL BE USED AS MY PORTFOLIO WEBSITE LINK)
+6. Blogging Website   (DONT ADD THIS PROJECT IN MY RESUME)
 livelink:- https://rahulwrites.onrender.com
 Github:- https://github.com/Rahul122703/Blogging-website
 	TechStack:htmlCSSJS(FE all vanilla) Flask(backend) SQL(Database)
@@ -94,7 +94,7 @@ Github:- https://github.com/Rahul122703/Blogging-website
 	Comment Section: Visitors can leave comments on each blog post.
 	Personal Use: Designed mainly for my own blogging needs and experiments with backend features.
 
-7. Rohan Arts (done)  
+7. Rohan Arts (Dont add this in my resume)  
 livelink:- https://rohanarts.vercel.app
 Github:- https://github.com/Rahul122703/rohan_arts
 	TechStack:htmlCSSJS(FE all vanilla)
@@ -145,29 +145,31 @@ sem 4 -- > 7.65
 sem 5 -- > 8.30
 sem 6 -- > 8.45
 sem 7 -- > 8.23
-DONT ADD ALL SEM RESULT JUST TAKE AVERAGE OF ALL
+sem 8 -- > 8.34
+avg --> 8.3 
 2. HSC --> 61.17% (2022)
 3. SSC --> 77.20% (2019)
-use this formula for AVERAGE
-final average = (sem1 + sem2 + .. + semN)/ total number of sem
 ---------------------------------------------------------------------------------------------------------------------
 Technical skills
-Databases : MongoDB , SQLite , Airtable
-Deployment : AWS , Render , Netlify , Vercel
+Databases : MongoDB , SQLite , Airtable, NocoDBm , supabase
+cloud : AWS , Render , Netlify , Vercel
 Testing & Scraping : Selenium , BeautifulSoup
-Frontend : React.js , Next.js , TailwindCSS , Bootstrap
-Backend & APIs : Flask , Express.js (Node.js), Postman
-Languages & Tools : JavaScript , TypeScript , C++ , Python , SQL , Git
+Frontend : React.js , Next.js , TailwindCSS , Bootstrap ,  jest , UI UX, 
+Backend & APIs : Flask , Express.js (Node.js), Postman , k6 , 
+Languages & Tools : JavaScript , TypeScript , C++ , Python , SQL , Git , grafana
 Business Tools: PowerBI, Excel, Pandas,Tableau (dont add this for now)
 ---------------------------------------------------------------------------------------------------------------------
 achivements:
 1. First price for pollverse in College project exhibition competition (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751137649/PollverseFirstPrice_ji8usj.png)
 2. In top 4 team in 24 hrs intercollege Technova hackathon (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751134881/24hrhack_ifojuw.png)
 3. Entrance : - 94 Percentile Got TFWS scholarship among Top 3 student (Dont Add this in my Resume)
-4. Touch Typing (Profile :- https://www.chess.com/member/rahul122703) top 11.76 % on monkeytype in 15 sec category
-5. Silver medal in youth india olympics in Taekwondo (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751221034/takewondo_yqqgk1.jpg)
+4. Touch Typing (Profile :- https://www.chess.com/member/rahul122703)(always go and search on this link and check the stats there and put the best one here )
+5. Silver medal in youth india olympics in Taekwondo (Certificate Link :- https://res.cloudinary.com/dle5gmw0f/image/upload/v1751221034/takewondo_yqqgk1.jpg) dont add this in resume
 6. Hackathon Winner (Certificate) - Won the Fourth Prize among 28 teams in a college-level hackathon competition.
 7. Won first price for sharebro at college level exhibition competition;
+8. won first price for soil projcet 
+9. won first price for hospital management system
+10. 
 ---------------------------------------------------------------------------------------------------------------------
 
 Certifications :
